@@ -57,27 +57,21 @@ Prerequisite: <a href="https://catalogue.uottawa.ca/search/?P=ELG%202138">ELG 21
 
 
 <br><br>
-
 <!---- Another Section ----------------------------------------->
-<h2><hr><a name="Textbook">Text Book: Signals and Systems, 2nd Edition</a></h2>
+## Text Book: Signals and Systems, 2nd Edition:
 
-            		
-			<a href="https://www.mathworks.com/academia/books/signals-and-systems-oppenheim.html">  
-			<img src="https://www.mathworks.com/content/mathworks/www/en/academia/books/signals-and-systems-oppenheim/_jcr_content/cover.img.gif/1469941053466.gif" 
-			alt="Signals and Systems, 2e" border="1.5" hspace="20" width="100" align="left"> <a> 
-		
-			<p>Alan V. Oppenheim, Massachusetts Institute of Technology</p>
-		
-			<p>Alan S. Willsky, Massachusetts Institute of Technology</p>
-		
-			<p>with S. Hamid, Boston University</p>
-				<p>	<i>&copy;1997</i>
-					<i><span class="delimiter">|</span>Pearson</i>
-					<i>
-						<span class="delimiter">|</span>
-						<i>ISBN: 0-13-814757-4</i>
+<hr>
+Authors:
+Alan V. Oppenheim, Massachusetts Institute of Technology
 
-<p style="text-indent: 3em;"> <a href="https://books.google.ca/books/about/Signals_Systems.html?id=LwQqAQAAMAAJ&redir_esc=y">(Google Book)</a> </p> 
+Alan S. Willsky, Massachusetts Institute of Technology
+
+with S. Hamid, Boston University
+
+Copyright: ©1997
+ISBN: 0-13-814757-4
+
+<img src="https://www.mathworks.com/content/mathworks/www/en/academia/books/signals-and-systems-oppenheim/_jcr_content/cover.img.gif/1469941053466.gif" width="100" height="150" alt="Resized Image">
 
 		
 
@@ -240,40 +234,7 @@ Prerequisite: <a href="https://catalogue.uottawa.ca/search/?P=ELG%202138">ELG 21
 </td></tr></tbody></table>
 
 
-<!---- Another Section ----------------------------------------->
 
-
-<h2><hr><a name="References">References</a></h2>
-
-		<figure>
-			<a href="https://www.springer.com/gp/book/9783319686745">
-			<img src="https://m.media-amazon.com/images/I/51eW2hAvKvL._AC_UF350,350_QL50_.jpg" 
-			alt="Signals and Systems by Rao, K. Deergha" align="left" border="1.5" hspace="20" width="100"></a> 
-		</figure> 
-
-		<figure>
-			<a href="https://www.mathworks.com/academia/books/signals-and-systems-laboratory-with-matlab-palamides.html?s_tid=srchtitle">
-			<img src="https://www.mathworks.com/content/mathworks/www/en/academia/books/signals-and-systems-laboratory-with-matlab-palamides/_jcr_content/cover.img.gif/1469941045131.gif" 
-			alt="Signals and Systems Laboratory with MATLAB" align="left" border="1.5" hspace="20" width="100"></a> 
-		</figure> 
-
-		<figure>
-			<a href="https://www.mathworks.com/academia/books/signals-and-systems-with-matlab-yang.html">
-			<img src="https://www.mathworks.com/content/mathworks/www/en/academia/books/signals-and-systems-with-matlab-yang/_jcr_content/cover.img.gif/1469941044117.gif" 
-			alt="Signals and Systems Laboratory with MATLAB" border="1.5" hspace="20" width="100"></a> 
-			<figcaption> 
-			    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-				<a href="https://link.springer.com/book/10.1007%2F978-3-319-68675-2">(download)</a>
-				&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-				&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-				<a href="https://www.taylorfrancis.com/books/9780429065644">(download)</a>
-				&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-				&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-				<a href="https://link.springer.com/book/10.1007%2F978-3-540-92954-3">(download)</a> 
-			</figcaption>
-			
-		</figure> 		
-<br>
 
 <!---- Another Section ----------------------------------------->
 
@@ -355,24 +316,7 @@ Prerequisite: <a href="https://catalogue.uottawa.ca/search/?P=ELG%202138">ELG 21
 </td></tr></tbody></table>
 <br><br>
 
-<!---- Another Section ----------------------------------------->
 
-
-<h2><hr><a name="Textbook">1000 Signals & Systems MCQs</a></h2>
-
-            		
-			<a href="https://www.sanfoundry.com/wp-content/uploads/2020/02/sanfoundry-logo-horizontal-2.png">  
-			<img src="https://www.sanfoundry.com/wp-content/uploads/2017/08/signals-systems-interview-questions-answers-img.png" 
-			alt="Signals and Systems, 2e" border="1.5" hspace="20" width="100" align="left"> <a> 
-		
-			<p>Signals & Systems Questions and Answers</p>
-		
-			<p>Every MCQ set focuses on a specific topic in Signals & Systems Subject</p>
-		
-
-<p style="text-indent: 3em;"> <a href="https://www.sanfoundry.com/1000-signals-systems-questions-answers/">(Test Yourself)</a> </p> 
-<br>
-<!---- Anothe Section ----------------------------------------->
 
 
 <hr><h2><a name="Old quizzes">Review Quizzes</a></h2>
@@ -415,400 +359,16 @@ Prerequisite: <a href="https://catalogue.uottawa.ca/search/?P=ELG%202138">ELG 21
 <br>
 
 
+
+
 </td></tr></tbody></table>
-
-
-
-       <br>
-
-        <br>
-
-        <b>ASSIGNMENTS AND SOLUTIONS: </b><br>
-
-        <table>
-
-          <tbody>
-
-            <tr>
-
-              <td> <a
-
- href="http://www.site.uottawa.ca/%7Ejpyao/courses/ELG3120_files/Assign1.html">Assignment
-
-1</a></td>
-
-              <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-              </td>
-
-              <td> <a
-
- href="http://www.site.uottawa.ca/%7Ejpyao/courses/ELG3120_files/Solution_1.pdf">Soltution
-
-1 </a></td>
-
-            </tr>
-
-            <tr>
-
-              <td> <a
-
- href="http://www.site.uottawa.ca/%7Ejpyao/courses/ELG3120_files/Assign2.html">Assignment
-
-2 </a></td>
-
-              <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-              </td>
-
-              <td><a
-
- href="http://www.site.uottawa.ca/%7Ejpyao/courses/ELG3120_files/Solution_2.pdf">Soltution
-
-2 </a>
-
-&nbsp;&nbsp;&nbsp;&nbsp; <a
-
- href="http://www.site.uottawa.ca/%7Ejpyao/courses/ELG3120_files/Solution_2.1.pdf">Soltution
-
-2 (more) </a></td>
-
-            </tr>
-
-            <tr>
-
-              <td><a
-
- href="http://www.site.uottawa.ca/%7Ejpyao/courses/ELG3120_files/Assign3.html">Assignment
-
-3 </a></td>
-
-              <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-              </td>
-
-              <td><a
-
- href="http://www.site.uottawa.ca/%7Ejpyao/courses/ELG3120_files/Solution-ELG-3120-Assignment3.pdf">Soltution
-
-3 </a> </td>
-
-            </tr>
-
-            <tr>
-
-              <td><a
-
- href="http://www.site.uottawa.ca/%7Ejpyao/courses/ELG3120_files/Assign4.html">Assignment
-
-4 </a></td>
-
-              <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-              </td>
-
-              <td><a
-
- href="http://www.site.uottawa.ca/%7Ejpyao/courses/ELG3120_files/Solution-ELG-3120-Assignment4.pdf">Soltution
-
-4 </a> </td>
-
-            </tr>
-
-            <tr>
-
-              <td><a
-
- href="http://www.site.uottawa.ca/%7Ejpyao/courses/ELG3120_files/Assign5.html">Assignment
-
-5 </a></td>
-
-              <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-              </td>
-
-              <td><a
-
- href="http://www.site.uottawa.ca/%7Ejpyao/courses/ELG3120_files/Solution_5.pdf">Soltution
-
-5 </a><font color="red"> </font> </td>
-
-            </tr>
-
-            <tr>
-
-              <td><a
-
- href="http://www.site.uottawa.ca/%7Ejpyao/courses/ELG3120_files/Assign6.html">Assignment
-
-6 (1)</a></td>
-
-              <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-              </td>
-
-              <td><a
-
- href="http://www.site.uottawa.ca/%7Ejpyao/courses/ELG3120_files/Solution_6.pdf">Soltution
-
-6 (1) </a> </td>
-
-            </tr>
-
-            <tr>
-
-              <td><a
-
- href="http://www.site.uottawa.ca/%7Ejpyao/courses/ELG3120_files/Assign6_2.html">Assignment
-
-6 (2)</a></td>
-
-              <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-              </td>
-
-              <td><a
-
- href="http://www.site.uottawa.ca/%7Ejpyao/courses/ELG3120_files/Solution_6_2.pdf">Soltution
-
-6 (2) </a> </td>
-
-            </tr>
-
-            <tr>
-
-              <td><a
-
- href="http://www.site.uottawa.ca/%7Ejpyao/courses/ELG3120_files/Assign7.html">Assignment
-
-7 </a></td>
-
-              <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-              </td>
-
-              <td> <a
-
- href="http://www.site.uottawa.ca/%7Ejpyao/courses/ELG3120_files/Solution_7.pdf">Soltution
-
-7 </a> </td>
-
-            </tr>
-
-            <tr>
-
-              <td><a
-
- href="http://www.site.uottawa.ca/%7Ejpyao/courses/ELG3120_files/Assign8.html">Assignment
-
-8 </a></td>
-
-              <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-              </td>
-
-              <td><a
-
- href="http://www.site.uottawa.ca/%7Ejpyao/courses/ELG3120_files/Solution_8.pdf">Soltution
-
-8 </a> </td>
-
-            </tr>
-
-            <tr>
-
-              <td><a
-
- href="http://www.site.uottawa.ca/%7Ejpyao/courses/ELG3120_files/Assign9.html">Assignment
-
-9 </a></td>
-
-              <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-              </td>
-
-              <td><a
-
- href="http://www.site.uottawa.ca/%7Ejpyao/courses/ELG3120_files/Solution_9.pdf">Soltution
-
-9 </a> </td>
-
-            </tr>
-
-          </tbody>
-
-        </table>
-
-        <br>
-
-        <b>PAST YEAR EXAMS: </b>
-
-        <table style="width: 366px; height: 576px;">
-
-          <tbody>
-
-            <tr>
-
-              <td><a
-
- href="http://www.site.uottawa.ca/%7Ejpyao/courses/ELG3120_files/Midterm_Winter_2002.pdf">Midterm
-
-Winter 2002</a> </td>
-
-              <td><a
-
- href="http://www.site.uottawa.ca/%7Ejpyao/courses/ELG3120_files/Solution-Midterm-winter-2002.pdf">Soltution</a>
-
-              </td>
-
-            </tr>
-
-            <tr>
-
-              <td><a
-
- href="http://www.site.uottawa.ca/%7Ejpyao/courses/ELG3120_files/Final_Winter_2002.pdf">Final
-
-Winter 2002 </a> </td>
-
-              <td><a
-
- href="http://www.site.uottawa.ca/%7Ejpyao/courses/ELG3120_files/Final_winter2002_Solutions.pdf">Soltution</a>
-
-              </td>
-
-            </tr>
-
-            <tr>
-
-              <td> <a
-
- href="http://www.site.uottawa.ca/%7Ejpyao/courses/ELG3120_files/Midterm_Fall_2002.pdf">Midterm
-
-Fall 2002</a></td>
-
-              <td> <a
-
- href="http://www.site.uottawa.ca/%7Ejpyao/courses/ELG3120_files/Midterm_Fall_2002_Solutions.pdf">Soltution</a>
-
-              </td>
-
-            </tr>
-
-            <tr>
-
-              <td><a
-
- href="http://www.site.uottawa.ca/%7Ejpyao/courses/ELG3120_files/Final_Fall_2002.pdf">Final
-
-Fall 2002 </a> </td>
-
-              <td><a
-
- href="http://www.site.uottawa.ca/%7Ejpyao/courses/ELG3120_files/solution-final-2002-fall.pdf">Soltution</a>
-
-              </td>
-
-            </tr>
-
-            <tr>
-
-              <td><a
-
- href="http://www.site.uottawa.ca/%7Ejpyao/courses/ELG3120_files/ELG3120_Midterm_Fall_2003.pdf">Midterm
-
-Fall 2003</a> </td>
-
-            </tr>
-
-            <tr>
-
-              <td><a
-
- href="http://www.site.uottawa.ca/%7Ejpyao/courses/ELG3120_files/ELG3120_2003_Final.pdf">Final
-
-Fall 2003</a> </td>
-
-            </tr>
-
-            <tr>
-
-              <td><a
-
- href="http://www.site.uottawa.ca/%7Ejpyao/courses/ELG3120_files/ELG3120_Midterm_Fall_2004.pdf">Midterm
-
-Fall 2004 </a> </td>
-
-            </tr>
-
-            <tr>
-
-              <td><a
-
- href="http://www.site.uottawa.ca/%7Ejpyao/courses/ELG3120_files/ELG3120-Final-Fall2004.pdf">Final
-
-Fall 2004 </a> </td>
-
-            </tr>
-
-            <tr>
-
-              <td><a
-
- href="http://www.site.uottawa.ca/%7Ejpyao/courses/ELG3120_files/ELG3120_Midterm_Fall_2005.pdf">Midterm
-
-Fall 2005 </a> </td>
-
-            </tr>
-
-            <tr>
-
-              <td><a
-
- href="http://www.site.uottawa.ca/%7Ejpyao/courses/ELG3120_files/Elg3120_Fall2005_final.pdf">Final
-
-Fall 2005 </a> </td>
-
-            </tr>
-
-            <tr>
-
-              <td><a
-
- href="http://www.site.uottawa.ca/%7Ejpyao/courses/ELG3120_files/ELG3120-Midterm-Fall2007.pdf">Midterm
-
-Fall 2007 </a> </td>
-
-            </tr>
-
-            <tr>
-
-              <td><a
-
- href="http://www.site.uottawa.ca/%7Ejpyao/courses/ELG3120_files/ELG3120_Final_Fall_2007.pdf">Final
-
-Fall 2007 </a> <br>
-
-              <br>
-
-
-
 <br>
 <!---- Start of template footer ---------------------------------------------------------------------->
 <h2><hr><a> </a></h2>
-<p class=MsoNormal><img
-border=0 width=500 height=6 id="_x0000_i1028" src="http://www.site.uottawa.ca/~hjlee103/img/line.gif"></p>
-
-	<!-- Footer section start -->
-	<footer class="footer-section">
-		<div class="container text-center">
-			<div class="copyright"><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
 
 
-
-</bgcolor="#ffffff"></body></html>
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Please report errors on this page to <a href="mailto:hjlee103@uottawa.ca">Hitham Jleed </a>. </p>
-Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved|    &nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Please report errors on this page to <a href="mailto:hjlee103@uottawa.ca">Hitham Jleed </a>. </p>
+All rights reserved|    &nbsp;&nbsp;
   "The best person is the one who benefits all human beings", <a href="https://en.wikipedia.org/wiki/Muhammad_in_Islam">(Prophet Muhammad)</a>
 </div>
 		</div>
